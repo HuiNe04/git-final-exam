@@ -1,5 +1,3 @@
 - Git rất hữu ích
 - Giúp làm việc nhóm dễ dàng
 - Quản lý phiên bản tốt
-- Học Git giúp hiểu về quy trình CI/CD
-- Git là kỹ năng quan trọng cho lập trình viên
