@@ -1,0 +1,22 @@
+Xin chào, tôi là Nguyễn Châu Trường Huy 
+Tôi là sinh viên CNTT năm 3.
+Tôi thích lập trình và nghiên cứu công nghệ.
+Tôi mong muốn trở thành lập trình viên giỏi.
+Tôi thích học hỏi và chia sẻ kiến thức.
+
+Sở thích:
+- Chơi game 
+- Đọc sách
+- Nhạc rock 
+
+Kỹ năng:
+- Java
+- Git
+- Tiếng Anh
+
+Kế hoạch học tập:
+- Ôn lại Java căn bản.
+- Học Spring Boot.
+- Thực hành Git nâng cao.
+- Làm mini project.
+- Chuẩn bị cho phỏng vấn thực tập.
