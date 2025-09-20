@@ -1,0 +1,6 @@
+Tính năng mới: Hệ thống đăng nhập
+- Cho phép người dùng tạo tài khoản
+- Hỗ trợ đăng nhập qua email
+- Có chức năng reset mật khẩu
+- Lưu thông tin vào database
+- Hệ thống bảo mật bằng hash
