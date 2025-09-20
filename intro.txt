@@ -13,3 +13,10 @@ Kỹ năng:
 - Java
 - Git
 - Tiếng Anh
+
+Kế hoạch học tập:
+- Ôn lại Java căn bản.
+- Học Spring Boot.
+- Thực hành Git nâng cao.
+- Làm mini project.
+- Chuẩn bị cho phỏng vấn thực tập.
